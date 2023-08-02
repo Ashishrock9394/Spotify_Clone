@@ -1,0 +1,44 @@
+.liked-show{  
+    margin-left: 40px;
+    width: 70vw;
+    color: white;    
+    top: 300px;
+    background-color: rgb(234, 111, 111);
+ }
+ 
+ .liked-show::-webkit-scrollbar {
+    display: none;
+ }
+ .liked-list{
+    display: flex;
+    flex-wrap: wrap;   
+    overflow-x: hidden;
+    overflow-y: auto;  
+    margin-top: 20px;
+    margin-left: 0;
+    width: 70vw;
+    flex-direction: row;
+    justify-content: space-between;
+ 
+ }
+ .liked-item{  
+    background-color: #212121;
+    width: 200px;
+    margin: 0 0 10px 0;
+    padding-right: 20px;
+    height: 200px;
+    color: white;
+    text-align: center;
+    align-items: center;
+ }
+ .liked-item img{
+    margin:10px 10px 0 10px;
+    height: 70%;
+    width: 100%;
+ }
+ 
+ .liked-item h4, p{
+    float: left;
+    padding-left: 2px;
+ }
+ 
