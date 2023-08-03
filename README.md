@@ -9,16 +9,6 @@ A music plateform Spotify Clone Webpage created by using HTML and CSS for the su
 - [@Ashish Kumar](https://www.github.com/AshishRock9394)
 
 
-## Screenshots
-
-Home Page Screenshot:-
-
-![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/main.png)
-
-PlayList Page Screenshot:- 
-
-![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/player.png)
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment.
@@ -45,10 +35,27 @@ Run in Web-Browser
 ```bash
   Run index.html
 ```
+To view playlist page
+
+```bash
+  Click on Liked Songs
+```
+
+## Screenshots
+
+Home Page Screenshot:-
+
+![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/main.png)
+
+PlayList Page Screenshot:- 
+
+![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/player.png)
+
+
+
 ## Tech Stack
 
 **Client:** HTML and CSS.
-
 
 ## Support
 
