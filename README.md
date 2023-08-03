@@ -11,7 +11,11 @@ A music plateform Spotify Clone Webpage created by using HTML and CSS for the su
 
 ## Screenshots
 
+Home Page Screenshot:-
+
 ![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/main.png)
+
+PlayList Page Screenshot:- 
 
 ![App Screenshot](https://github.com/Ashishrock9394/Spotify_Clone/blob/main/Icons/Screenshots/player.png)
 
